@@ -11,7 +11,7 @@
 
 -Scroll to Anchor
 
-## Additional of Contents
+## Additional Contents
 -i added active state of navigation items when a section is in the viewport.
 
 -navigation bar hide while not scrolling
